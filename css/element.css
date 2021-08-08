@@ -1,0 +1,301 @@
+*{
+	font-family: arial;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin: 0px;
+	margin-top:0.6em;
+	margin-bottom:0.4em;
+}
+
+h1{
+	font-size: 3.5em;
+}
+h2{
+	font-size: 3em;
+}
+h3{
+	font-size: 2.5em;
+}
+h4{
+	font-size: 2em;
+}
+h5{
+	font-size: 1.5em;
+}
+h6{
+	font-size: 1em;
+}
+
+img{
+	width: 100%;
+}
+img.picture{
+	width: 500px;
+	margin: 10px;
+	padding: 5px;
+	border:2px solid white;
+	box-shadow:0px 0px 15px rgba(255,255,255, 0.5); 
+}
+body{
+	background: #1E1E1E;
+	color: #E2FFFF;
+}
+
+.button:hover{
+	padding: 12px 18px;
+	box-shadow: 0px 0px 15px rgba(255,255,255, 0.5);
+}
+
+.button:active{
+	box-shadow: 5px 5px 5px rgba(0,0,0, 0.3) inset;
+	padding: 10px 15px;
+}
+.button.big{
+	padding: 20px 30px;
+	font-size: 20px;
+}
+
+.button.small{
+	padding: 2px 3px;
+	font-size: 10px;
+}
+
+.button.green{
+	background: lightgreen;
+	color:black;
+}
+
+.button.yellow{
+	background:  #FFFF99;
+	color:black;
+	position: 
+}
+
+.button.red{
+	background: #EE7678;
+
+}
+.button{
+	border:2px double lightgreen;
+	padding: 10px 15px;
+	text-decoration: none;
+	color: #000000;
+	background: #3AE8E8;
+	box-shadow: 10px 10px 15px rgba(150, 150, 150, 0.6) inset;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.nav{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.nav li a{
+	text-decoration: none;
+	background: #B0E0E6;
+	display: block;
+	widows: 100%;
+	color: #080815;
+	padding: 6px 12px;
+	border-radius: 10px;
+
+}
+.nav li{
+	margin-bottom: 5px;
+}
+
+.nav *{
+	box-sizing: border-box;
+}
+
+.nav  li a.active{
+	background:#8AE0E6;
+	color:#000000;
+}
+
+
+.nav li a:hover{
+	background:#00CED1;
+	color:black;
+}
+
+.nav li a:active{
+	background:#FFEEEE;
+	color:black;
+}
+
+.nav.horizont{
+	overflow: auto;
+}
+
+.nav.horizont li{
+	display: inline-block;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 0;
+}
+
+.nav-fixed{
+	background-color: #E2FFFF;
+	color: #1E1E1E;
+	overflow: auto;
+	height: 64px;
+}
+
+.nav-fixed > div:first-child{
+	float:left;
+}
+
+.nav-fixed > div:last-child{
+	float: right;
+}
+
+.nav-fixed h2{
+	margin: 0;
+	line-height: 64px;
+	padding-right: 32px;
+	padding-left: 32px;
+}
+
+.nav-fixed ul li{
+	display: inline-block;
+	float: left;
+	border-left: 1px double blue;
+} 
+
+.nav-fixed ul{
+	padding: 0;
+	margin: 0;
+	overflow: auto;
+}
+
+.nav-fixed ul li a{
+	text-decoration: none;
+	color:black;
+	line-height: 64px;
+	display: block;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+.nav-fixed ul li a.active{
+	background-color: #8AE0E6;
+}
+
+.nav-fixed ul li a:hover{
+	background-color: #00CED1;
+}
+
+.nav-fixed ul li a:active{
+	background-color: #FFEEEE;
+}
+
+body.fix-nav{
+	margin-top: 64px;
+}
+
+body.fix-nav .nav-fixed{
+	position: fixed;
+	top:0;
+	left: 0;
+	right: 0;
+	box-shadow: -5px -5px 15px rgba(0,0,0, 0.4) inset;
+}
+
+.badge{
+	color: #000000;
+	background: #3AE8E8;
+	border-radius: 10px;
+	padding: 0.25em 0.5em;
+	white-space: nowrap;
+}
+.badge.green{
+	background: lightgreen;
+	color:black;
+}
+
+.badge.yellow{
+	background:  #FFFF99;
+	color:black;
+}
+
+.badge.red{
+	background: #EE7678;
+
+}
+.badge.pill{
+	border-radius: 999999999999px;
+	tr
+}
+
+.table{
+	width: 100%;
+	background-color: #B0E0E6;
+	color: black;
+	border-right: 1px solid #00CED1;
+	border-bottom: 1px solid #00CED1;
+	border-spacing: 0;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.table tr td, 
+.table tr th{
+	border-left:1px solid #00CED1;
+	border-top:1px solid #00CED1;
+	padding: 0.5em;
+}
+.table tr:first-child td:first-child,
+.table tr:first-child th:first-child{
+	border-top-left-radius: 10px;
+}
+.table tr:first-child td:last-child,
+.table tr:first-child th:last-child{
+	border-top-right-radius: 10px;
+}
+.table tr:last-child td:first-child,
+.table tr:last-child th:first-child{
+	border-bottom-left-radius: 10px;
+}
+
+.table.small tr td,
+.table.small tr td,{
+	padding: 0.25;
+}
+.table.rows{
+	border:none;
+}
+.table.rows tr td,
+.table.rows tr th{
+	border:none;
+	border-bottom: 1px solid #00CED1;
+}
+.table.rows tr:last-child td,
+.table.rows tr:last-child th{
+	border:none;
+}
+
+.table.cols{
+	border:none;
+}
+.table.cols tr td,
+.table.cols tr th{
+	border:none;
+	border-right: 1px solid #00CED1;
+}
+.table.cols tr td:last-child,
+.table.cols tr th:last-child{
+	border:none;
+}
+
+.table.hover tr:hover{
+	background-color: #8AE0E6;
+}
+
+.table.striped tr:nth-child(2n){
+	background-color: #8AE0E6;
+}
+

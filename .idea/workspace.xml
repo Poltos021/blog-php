@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87e69d73-8fe2-4553-8366-8a5d6ae9db02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DemoCss/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCss/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP(C)/app/config/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP(C)/app/controller/Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP(C)/app/layouts/default.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP(C)/app/views/Test/param.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP(C)/app/views/Test/test.phtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP(C)/system/Adab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVP(C)/system/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/.idea/PHP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/includes/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/includes/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/includes/exit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/includes/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/includes/reg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/media/img-498626694_13156472667788953.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/media/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/php/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP/php/reg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../api/Api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/task1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/task2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/task3.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wRfOnMNYXQ84nLWaS0JP5xtvII" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e69d73-8fe2-4553-8366-8a5d6ae9db02" name="Default Changelist" comment="" />
+      <created>1628426291676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628426291676</updated>
+      <workItem from="1628426292789" duration="637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
